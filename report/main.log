@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.5)  9 JUN 2019 21:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.5)  9 JUN 2019 23:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -742,7 +742,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 54.
  [2 <../img/unidade_bar.pdf>]
-<../img/unidade_pie.pdf, id=85, 1373.13pt x 1373.13pt>
+<../img/unidade_pie.pdf, id=83, 1373.13pt x 1373.13pt>
 File: ../img/unidade_pie.pdf Graphic file (type pdf)
 <use ../img/unidade_pie.pdf>
 Package pdftex.def Info: ../img/unidade_pie.pdf  used on input line 59.
@@ -752,7 +752,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 63.
  [3 <../img/unidade_pie.pdf>]
-<../img/programa_bar.pdf, id=140, 722.7pt x 722.7pt>
+<../img/programa_bar.pdf, id=138, 722.7pt x 722.7pt>
 File: ../img/programa_bar.pdf Graphic file (type pdf)
 <use ../img/programa_bar.pdf>
 Package pdftex.def Info: ../img/programa_bar.pdf  used on input line 69.
@@ -762,7 +762,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 73.
  [4 <../img/programa_bar.pdf>]
-<../img/programa_pie.pdf, id=186, 1228.59pt x 1445.4pt>
+<../img/programa_pie.pdf, id=184, 1228.59pt x 1445.4pt>
 File: ../img/programa_pie.pdf Graphic file (type pdf)
 <use ../img/programa_pie.pdf>
 Package pdftex.def Info: ../img/programa_pie.pdf  used on input line 78.
@@ -801,9 +801,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  36i,10n,77p,1076b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on /home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.pdf (6 pages, 163119 bytes).
+Output written on /home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.pdf (6 pages, 162810 bytes).
 PDF statistics:
- 275 PDF objects out of 1000 (max. 8388607)
+ 273 PDF objects out of 1000 (max. 8388607)
  99 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
  16437 words of extra memory for PDF output out of 17280 (max. 10000000)

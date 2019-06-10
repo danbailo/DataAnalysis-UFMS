@@ -1,11 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1560130887 "/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.tex" "/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.pdf" "main" 1560130887
+["pdflatex"] 1560136435 "/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.tex" "/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.pdf" "main" 1560136435
   "../img/programa_bar.pdf" 1560130760 14213 997c33628103ab738023a6f166f44c77 ""
   "../img/programa_pie.pdf" 1560130759 18204 877cadd73379949a885792419ea0f774 ""
-  "../img/unidade_bar.pdf" 1560130886 16786 4ac7d88efcc5de1cf8c134f390c77698 ""
+  "../img/unidade_bar.pdf" 1560136434 16413 38f25ace92e93b83ecf5fd7dd3ad08b9 ""
   "../img/unidade_pie.pdf" 1560130881 23305 2c993018c715e1e61ac4ce0258b73386 ""
   "/etc/texmf/web2c/texmf.cnf" 1557034392 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.aux" 1560130887 2338 c04f0cad6ee0bf1bd951278b5d203e7c ""
+  "/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.aux" 1560136435 2338 c04f0cad6ee0bf1bd951278b5d203e7c ""
   "/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.tex" 1560130614 3849 47c0a74e05da66efeb78b0ce109e16dd ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -92,13 +92,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1557034445 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1557034463 4132299 d21a62db025bcce590f224ea27d222ce ""
-  "main.aux" 1560130887 2338 c04f0cad6ee0bf1bd951278b5d203e7c ""
-  "main.out" 1560130887 235 18c0dc822cacf521a92d9a058c3692dc ""
+  "main.aux" 1560136435 2338 c04f0cad6ee0bf1bd951278b5d203e7c ""
+  "main.out" 1560136435 235 18c0dc822cacf521a92d9a058c3692dc ""
   "main.tex" 1560130614 3849 47c0a74e05da66efeb78b0ce109e16dd ""
   (generated)
   "/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.pdf"
-  "main.pdf"
+  "main.aux"
   "main.out"
   "main.log"
   "/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.log"
-  "main.aux"
+  "main.pdf"
