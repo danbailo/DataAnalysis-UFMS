@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.5)  10 JUN 2019 11:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.5)  13 JUN 2019 01:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.tex
-(/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.tex
+**/home/daniel/Documents/Programming/DataAnalysis-UFMS/Relatório/main.tex
+(/home/daniel/Documents/Programming/DataAnalysis-UFMS/Relatório/main.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -401,6 +401,8 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
+) (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
 ) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
 \f@nch@headwidth=\skip44
@@ -590,34 +592,61 @@ LaTeX Info: Redefining \today on input line 736.
 ) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count132
-) (/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.aux
+) (/home/daniel/Documents/Programming/DataAnalysis-UFMS/Relatório/main.aux
 
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
+LaTeX Warning: Label `fig:scatter_topDown' multiply defined.
 
 
-LaTeX Warning: Label `' multiply defined.
+LaTeX Warning: Label `fig:scatter_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:scatter_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:result_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:scatter_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:result_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:scatter_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:result_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:scatter_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:result_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:scatter_topDown' multiply defined.
+
+
+LaTeX Warning: Label `fig:result_topDown' multiply defined.
 
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Info: Redefining \microtypecontext on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Info: Redefining \microtypecontext on input line 31.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -659,7 +688,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box27
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 31.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -667,10 +696,10 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count139
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
- (/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.out) (/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.out)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+ (/home/daniel/Documents/Programming/DataAnalysis-UFMS/Relatório/main.out) (/home/daniel/Documents/Programming/DataAnalysis-UFMS/Relatório/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -710,101 +739,188 @@ LaTeX Info: Redefining \nameref on input line 30.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 33.
+(Font)              <14.4> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <7> on input line 34.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 38.
+(Font)              <12> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 38.
+(Font)              <8> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
+(Font)              <6> on input line 39.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 45.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 45.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 45.
-<../img/unidade_bar.pdf, id=30, 722.7pt x 722.7pt>
-File: ../img/unidade_bar.pdf Graphic file (type pdf)
-<use ../img/unidade_bar.pdf>
-Package pdftex.def Info: ../img/unidade_bar.pdf  used on input line 50.
-(pdftex.def)             Requested size: 505.89pt x 505.88655pt.
+(babel)             in language  on input line 46.
+<../Resultados/img/unidade_pie_2018.pdf, id=26, 1589.94pt x 1589.94pt>
+File: ../Resultados/img/unidade_pie_2018.pdf Graphic file (type pdf)
+<use ../Resultados/img/unidade_pie_2018.pdf>
+Package pdftex.def Info: ../Resultados/img/unidade_pie_2018.pdf  used on input line 49.
+(pdftex.def)             Requested size: 505.89pt x 505.87994pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 53.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 54.
- [2 <../img/unidade_bar.pdf>]
-<../img/unidade_pie.pdf, id=83, 1373.13pt x 1373.13pt>
-File: ../img/unidade_pie.pdf Graphic file (type pdf)
-<use ../img/unidade_pie.pdf>
-Package pdftex.def Info: ../img/unidade_pie.pdf  used on input line 59.
-(pdftex.def)             Requested size: 455.2979pt x 455.29239pt.
+(babel)             in language  on input line 53.
+ [2 <../Resultados/img/unidade_pie_2018.pdf>]
+<../Resultados/img/unidade_pie_2019.pdf, id=83, 1589.94pt x 1589.94pt>
+File: ../Resultados/img/unidade_pie_2019.pdf Graphic file (type pdf)
+<use ../Resultados/img/unidade_pie_2019.pdf>
+Package pdftex.def Info: ../Resultados/img/unidade_pie_2019.pdf  used on input line 56.
+(pdftex.def)             Requested size: 505.89pt x 505.87994pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 63.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 63.
- [3 <../img/unidade_pie.pdf>]
-<../img/programa_bar.pdf, id=138, 722.7pt x 722.7pt>
-File: ../img/programa_bar.pdf Graphic file (type pdf)
-<use ../img/programa_bar.pdf>
-Package pdftex.def Info: ../img/programa_bar.pdf  used on input line 69.
-(pdftex.def)             Requested size: 505.89pt x 505.88655pt.
+(babel)             in language  on input line 60.
+ [3
+
+ <../Resultados/img/unidade_pie_2019.pdf>]
+<../Resultados/img/unidade_bar_2018.pdf, id=137, 722.7pt x 722.7pt>
+File: ../Resultados/img/unidade_bar_2018.pdf Graphic file (type pdf)
+<use ../Resultados/img/unidade_bar_2018.pdf>
+Package pdftex.def Info: ../Resultados/img/unidade_bar_2018.pdf  used on input line 66.
+(pdftex.def)             Requested size: 252.94499pt x 252.93776pt.
+<../Resultados/img/unidade_bar_2019.pdf, id=138, 722.7pt x 722.7pt>
+File: ../Resultados/img/unidade_bar_2019.pdf Graphic file (type pdf)
+<use ../Resultados/img/unidade_bar_2019.pdf>
+Package pdftex.def Info: ../Resultados/img/unidade_bar_2019.pdf  used on input line 72.
+(pdftex.def)             Requested size: 252.94499pt x 252.93776pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 73.
+(babel)             in language  on input line 77.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 73.
- [4 <../img/programa_bar.pdf>]
-<../img/programa_pie.pdf, id=184, 1228.59pt x 1445.4pt>
-File: ../img/programa_pie.pdf Graphic file (type pdf)
-<use ../img/programa_pie.pdf>
-Package pdftex.def Info: ../img/programa_pie.pdf  used on input line 78.
-(pdftex.def)             Requested size: 455.2979pt x 535.64978pt.
+(babel)             in language  on input line 77.
+ [4
+
+ <../Resultados/img/unidade_bar_2018.pdf> <../Resultados/img/unidade_bar_2019.pdf
+
+pdfTeX warning: pdflatex (file ../Resultados/img/unidade_bar_2019.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<../Resultados/img/programa_pie_2018.pdf, id=231, 722.7pt x 722.7pt>
+File: ../Resultados/img/programa_pie_2018.pdf Graphic file (type pdf)
+<use ../Resultados/img/programa_pie_2018.pdf>
+Package pdftex.def Info: ../Resultados/img/programa_pie_2018.pdf  used on input line 83.
+(pdftex.def)             Requested size: 252.94499pt x 252.93776pt.
+<../Resultados/img/programa_pie_2019.pdf, id=232, 722.7pt x 722.7pt>
+File: ../Resultados/img/programa_pie_2019.pdf Graphic file (type pdf)
+<use ../Resultados/img/programa_pie_2019.pdf>
+Package pdftex.def Info: ../Resultados/img/programa_pie_2019.pdf  used on input line 89.
+(pdftex.def)             Requested size: 252.94499pt x 252.93776pt.
+<../Resultados/img/programa_bar_2018.pdf, id=233, 722.7pt x 722.7pt>
+File: ../Resultados/img/programa_bar_2018.pdf Graphic file (type pdf)
+<use ../Resultados/img/programa_bar_2018.pdf>
+Package pdftex.def Info: ../Resultados/img/programa_bar_2018.pdf  used on input line 99.
+(pdftex.def)             Requested size: 252.94499pt x 252.93776pt.
+<../Resultados/img/programa_bar_2019.pdf, id=234, 722.7pt x 722.7pt>
+File: ../Resultados/img/programa_bar_2019.pdf Graphic file (type pdf)
+<use ../Resultados/img/programa_bar_2019.pdf>
+Package pdftex.def Info: ../Resultados/img/programa_bar_2019.pdf  used on input line 105.
+(pdftex.def)             Requested size: 252.94499pt x 252.93776pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 82.
- [5 <../img/programa_pie.pdf>]
+(babel)             in language  on input line 110.
+ [5
+
+ <../Resultados/img/programa_pie_2018.pdf> <../Resultados/img/programa_pie_2019.pdf
+
+pdfTeX warning: pdflatex (file ../Resultados/img/programa_pie_2019.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <../Resultados/img/programa_bar_2018.pdf
+
+pdfTeX warning: pdflatex (file ../Resultados/img/programa_bar_2018.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <../Resultados/img/programa_bar_2019.pdf
+
+pdfTeX warning: pdflatex (file ../Resultados/img/programa_bar_2019.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<../Resultados/img/pets_pie_2018.pdf, id=391, 1084.05pt x 1084.05pt>
+File: ../Resultados/img/pets_pie_2018.pdf Graphic file (type pdf)
+<use ../Resultados/img/pets_pie_2018.pdf>
+Package pdftex.def Info: ../Resultados/img/pets_pie_2018.pdf  used on input line 116.
+(pdftex.def)             Requested size: 252.94499pt x 252.93225pt.
+<../Resultados/img/pets_pie_2019.pdf, id=392, 1084.05pt x 1084.05pt>
+File: ../Resultados/img/pets_pie_2019.pdf Graphic file (type pdf)
+<use ../Resultados/img/pets_pie_2019.pdf>
+Package pdftex.def Info: ../Resultados/img/pets_pie_2019.pdf  used on input line 122.
+(pdftex.def)             Requested size: 252.94499pt x 252.93225pt.
+<../Resultados/img/pets_bar_2018.pdf, id=393, 722.7pt x 722.7pt>
+File: ../Resultados/img/pets_bar_2018.pdf Graphic file (type pdf)
+<use ../Resultados/img/pets_bar_2018.pdf>
+Package pdftex.def Info: ../Resultados/img/pets_bar_2018.pdf  used on input line 132.
+(pdftex.def)             Requested size: 252.94499pt x 252.93776pt.
+<../Resultados/img/pets_bar_2019.pdf, id=394, 722.7pt x 722.7pt>
+File: ../Resultados/img/pets_bar_2019.pdf Graphic file (type pdf)
+<use ../Resultados/img/pets_bar_2019.pdf>
+Package pdftex.def Info: ../Resultados/img/pets_bar_2019.pdf  used on input line 138.
+(pdftex.def)             Requested size: 252.94499pt x 252.93776pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 84.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 143.
+ [6
+
+ <../Resultados/img/pets_pie_2018.pdf> <../Resultados/img/pets_pie_2019.pdf
+
+pdfTeX warning: pdflatex (file ../Resultados/img/pets_pie_2019.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <../Resultados/img/pets_bar_2018.pdf
+
+pdfTeX warning: pdflatex (file ../Resultados/img/pets_bar_2018.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <../Resultados/img/pets_bar_2019.pdf
+
+pdfTeX warning: pdflatex (file ../Resultados/img/pets_bar_2019.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<../Resultados/img/porcentagem_2018.pdf, id=555, 1445.4pt x 1445.4pt>
+File: ../Resultados/img/porcentagem_2018.pdf Graphic file (type pdf)
+<use ../Resultados/img/porcentagem_2018.pdf>
+Package pdftex.def Info: ../Resultados/img/porcentagem_2018.pdf  used on input line 149.
+(pdftex.def)             Requested size: 252.94499pt x 252.92673pt.
+<../Resultados/img/porcentagem_2019.pdf, id=556, 1445.4pt x 1445.4pt>
+File: ../Resultados/img/porcentagem_2019.pdf Graphic file (type pdf)
+<use ../Resultados/img/porcentagem_2019.pdf>
+Package pdftex.def Info: ../Resultados/img/porcentagem_2019.pdf  used on input line 155.
+(pdftex.def)             Requested size: 252.94499pt x 252.92673pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 87.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
- (/home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
+(babel)             in language  on input line 163.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 163.
+ [7
+
+ <../Resultados/img/porcentagem_2018.pdf> <../Resultados/img/porcentagem_2019.pdf
+
+pdfTeX warning: pdflatex (file ../Resultados/img/porcentagem_2019.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+ (/home/daniel/Documents/Programming/DataAnalysis-UFMS/Relatório/main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 18C0DC822CACF521A92D9A058C3692DC;235.
+(rerunfilecheck)             Checksum: 32210CCBD0DC6B4E7D46D7047EAE3420;188.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 10503 strings out of 492982
- 160140 string characters out of 6134897
- 405042 words of memory out of 5000000
- 13889 multiletter control sequences out of 15000+600000
- 11028 words of font info for 54 fonts, out of 8000000 for 9000
+ 10561 strings out of 492982
+ 162757 string characters out of 6134897
+ 405140 words of memory out of 5000000
+ 13941 multiletter control sequences out of 15000+600000
+ 10734 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,10n,77p,1076b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on /home/daniel/Documents/Programming/DataAnalysis-INTEGRAUFMS2019/report/main.pdf (6 pages, 163029 bytes).
+ 36i,10n,77p,1069b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on /home/daniel/Documents/Programming/DataAnalysis-UFMS/Relatório/main.pdf (7 pages, 292768 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 16437 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 690 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 16479 words of extra memory for PDF output out of 17280 (max. 10000000)
 

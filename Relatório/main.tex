@@ -4,6 +4,7 @@
 \usepackage[protrusion=true, expansion=true]{microtype}
 \usepackage[hang, small, labelfont=bf, up, textfont=it, up]{caption}
 \usepackage{graphicx}
+\usepackage{placeins}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
 \usepackage[a4paper, total={7in, 10in}]{geometry}
@@ -43,45 +44,120 @@ Feito isso, organizei os dados em um {\it DataFrame}, e daí, eu consigo extrair
 
 \newpage
 \section{Análise Descritiva dos Dados}
-Como podemos ver, o Campus que mais submeteu trabalhos foi o Campus de Três Lagoas, com um total de 162 projetos, dividos em ensino, pesquisa e extensão.
-\vspace{-30pt}
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=1\textwidth]{../img/unidade_bar.pdf}
-	\caption{Gráfico do número de trabalho submetidos por Campus}
-	\label{}
+	\includegraphics[width=1\textwidth]{../Resultados/img/unidade_pie_2018.pdf}
+	\caption{Tempo/Resultado.}
+	\label{fig:scatter_topDown}
 \end{figure}
-\newpage
-
-Com isso, somente o Campus de Três Lagoas, preenche um total de $14.6\%$...
+\clearpage
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.9\textwidth]{../img/unidade_pie.pdf}
-	\caption{Gráfico do número de trabalho submetidos por Campus}
-	\label{}
+	\includegraphics[width=1\textwidth]{../Resultados/img/unidade_pie_2019.pdf}
+	\caption{Tempo/Resultado.}
+	\label{fig:scatter_topDown}
 \end{figure}
-\newpage
+\clearpage
 
-Como podemos ver, o Campus que mais submeteu trabalhos foi o Campus de Três Lagoas, com um total de 162 projetos, dividos em ensino, pesquisa e extensão.
-\vspace{-30pt}
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=1\textwidth]{../img/programa_bar.pdf}
-	\caption{Gráfico do número de trabalho submetidos por programa}
-	\label{}
+\begin{figure}[!htb]
+    \centering
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/unidade_bar_2018.pdf}
+        \caption{Tempo/Resultado.}
+        \label{fig:scatter_topDown}
+    \end{minipage}%
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/unidade_bar_2019.pdf}
+        \caption{Resultado/Instância.}
+        \label{fig:result_topDown}
+    \end{minipage}
 \end{figure}
-\newpage
+\clearpage
 
-Com isso, somente o Campus de Três Lagoas, preenche um total de $14.6\%$...
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=0.9\textwidth]{../img/programa_pie.pdf}
-	\caption{Gráfico do número de trabalho submetidos por Campus}
-	\label{}
+\begin{figure}[!htb]
+    \centering
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/programa_pie_2018.pdf}
+        \caption{Tempo/Resultado.}
+        \label{fig:scatter_topDown}
+    \end{minipage}%
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/programa_pie_2019.pdf}
+        \caption{Resultado/Instância.}
+        \label{fig:result_topDown}
+    \end{minipage}
 \end{figure}
-\newpage
 
-\section{Conclusão}
-\lipsum[3]
+\begin{figure}[!htb]
+    \centering
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/programa_bar_2018.pdf}
+        \caption{Tempo/Resultado.}
+        \label{fig:scatter_topDown}
+    \end{minipage}%
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/programa_bar_2019.pdf}
+        \caption{Resultado/Instância.}
+        \label{fig:result_topDown}
+    \end{minipage}
+\end{figure}
+\clearpage
+
+\begin{figure}[!htb]
+    \centering
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/pets_pie_2018.pdf}
+        \caption{Tempo/Resultado.}
+        \label{fig:scatter_topDown}
+    \end{minipage}%
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/pets_pie_2019.pdf}
+        \caption{Resultado/Instância.}
+        \label{fig:result_topDown}
+    \end{minipage}
+\end{figure}
+
+\begin{figure}[!htb]
+    \centering
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/pets_bar_2018.pdf}
+        \caption{Tempo/Resultado.}
+        \label{fig:scatter_topDown}
+    \end{minipage}%
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/pets_bar_2019.pdf}
+        \caption{Resultado/Instância.}
+        \label{fig:result_topDown}
+    \end{minipage}
+\end{figure}
+\clearpage
+
+\begin{figure}[!htb]
+    \centering
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/porcentagem_2018.pdf}
+        \caption{Tempo/Resultado.}
+        \label{fig:scatter_topDown}
+    \end{minipage}%
+    \begin{minipage}{0.5\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{../Resultados/img/porcentagem_2019.pdf}
+        \caption{Resultado/Instância.}
+        \label{fig:result_topDown}
+    \end{minipage}
+\end{figure}
+% \section{Conclusão}
+% \lipsum[3]
 
 \end{document}
